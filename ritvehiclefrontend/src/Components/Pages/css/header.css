@@ -1,0 +1,18 @@
+.header {
+    display: left;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .logo-section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .logo {
+    height: 60px;
+    width: auto;
+  }

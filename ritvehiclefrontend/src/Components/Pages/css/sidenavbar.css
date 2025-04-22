@@ -1,0 +1,33 @@
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    background-color: #1a237e;
+    color: white;
+    padding: 20px;
+    position: fixed;
+  }
+  
+  .sidebar-title {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    margin-bottom: 15px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  
